@@ -1,4 +1,4 @@
-# 01 – Foundations of Observer Entropy
+Foundations of Observer Entropy
 
 ## 1. Informational Horizons
 
