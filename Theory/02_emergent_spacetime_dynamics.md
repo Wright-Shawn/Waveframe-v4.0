@@ -1,4 +1,4 @@
-# 02 — Emergent Spacetime Dynamics
+# Emergent Spacetime Dynamics
 
 ## Overview
 
