@@ -9,14 +9,14 @@ This project is speculative but rooted in rigorous formal principles. It is not 
 
 ## Core Tenets
 
-1. Observer-defined horizons replace global geometry.
-2. Entropy = Horizon Area defines system information content:
-   \[ S(t) = \frac{\pi}{H(t)^2} \]
-3. Expansion law emerges from resolution-dependent information intake — the act of observation drives evolution:
-   \[ H(t) \propto \frac{1}{\sqrt{t - t_0}} \]
-4. Metric tensor is replaced by an entropic structure tied to perceived causal boundaries.
-5. No field equations or energy-momentum tensors are used. Expansion is not derived from curvature but from informational degrees of freedom.
-6. Spacetime is emergent, not fundamental. Matter and geometry are encoded as quantum collapse events at a boundary of coherence.
+1. **Observer-defined horizons** replace global geometry.
+2. **Entropy = Horizon Area** defines system information content:  
+   `S(t) = π / H(t)²`
+3. **Expansion law emerges from resolution-dependent information intake** — the act of observation drives evolution:  
+   `H(t) ∝ 1 / √(t − t₀)`
+4. **Metric tensor is replaced** by an entropic structure tied to perceived causal boundaries.
+5. **No field equations or energy-momentum tensors** are used. Expansion is not derived from curvature but from informational degrees of freedom.
+6. **Spacetime is emergent, not fundamental.** Matter and geometry are encoded as quantum collapse events at a boundary of coherence.
 
 ## Research Goals
 
