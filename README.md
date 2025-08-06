@@ -1,4 +1,4 @@
-# Waveframe XR: An Ontological Reformulation of Cosmological Expansion from Observer-Limited Information
+# Waveframe XR: Observer-Driven Cosmology Without Geometry
 
 ## Overview
 
