@@ -13,5 +13,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 This project, Waveframe v4.0 XR, is the intellectual work of Shawn Wright. Any use, modification, or redistribution must credit the original author. Commercial use, resale, or misattribution is strictly prohibited unless explicitly permitted in writing.
-
+This restriction applies to both direct monetization (e.g., paid access, licensing) and indirect monetization (e.g., incorporation into commercial products, platforms, or services).
 Attribution notice must remain intact in all distributed copies and derivative works.
