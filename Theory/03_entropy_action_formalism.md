@@ -1,4 +1,4 @@
-# 03 — Entropy-Action Formalism
+# Entropy-Action Formalism
 
 This section outlines the formal principle underlying Waveframe XR: a replacement for the Einstein-Hilbert action using an entropy-based variational approach. The goal is to define cosmological dynamics not from curvature, but from entropy evolution over observational horizons.
 
