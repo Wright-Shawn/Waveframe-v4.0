@@ -2,6 +2,13 @@
 
 ## Overview
 
+> **Clarification on "XR"**  
+> This repository is **not** related to Extended Reality (XR), virtual reality, or node-based scene editors.  
+>  
+> **Waveframe v4.0 XR** stands for **"Waveframe: eXtended Relativity"** — a speculative **cosmological framework** exploring how space, time, and expansion emerge from entropy gradients and observer-dependent collapse.  
+>  
+> If you're looking for AR/VR or WebXR tooling, this is not that. This project belongs to the domain of **theoretical physics and cosmology**, not interactive 3D development.
+
 Waveframe XR (v4.0) is a foundational overhaul of the Waveframe cosmological framework. It departs from classical geometric formulations entirely and proposes that spacetime itself is not fundamental, but emerges from quantum information collapse at the observational boundary of an entity's light cone.
 
 Where Waveframe v3.1 modeled expansion as a macroscopic entropy gradient on the horizon, XR models observation as an active process that generates spacetime. Geometry is a byproduct of resolution, and expansion reflects an observer's entropic rendering rate.
