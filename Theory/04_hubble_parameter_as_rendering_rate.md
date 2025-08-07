@@ -1,4 +1,4 @@
-# 04. Hubble Parameter as Rendering Rate
+# Hubble Parameter as Rendering Rate
 
 ## Conceptual Overview
 
