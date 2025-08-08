@@ -45,11 +45,16 @@ This model is speculative, but structured around formal derivations and falsifia
 
 Waveframe V4.0 draws inspiration from prior theoretical and emergent-gravity work:
 
-• T. Jacobson — *“Thermodynamics of Spacetime: The Einstein Equation of State”* (1995)  
-• E. Verlinde — *“Emergent Gravity and the Dark Universe”* (2016)  
-• T. Padmanabhan — *“Gravitation: Foundations and Frontiers”* (2010)  
-• M. Matsueda — *“Emergent Spacetime and Holographic Entropy”* (2014)  
-• S. Gao — *“A Critique of Entropic Gravity”* (2010)
+- T. Jacobson — *“Thermodynamics of Spacetime: The Einstein Equation of State”* (1995)  
+- E. Verlinde — *“Emergent Gravity and the Dark Universe”* (2016)  
+- T. Padmanabhan — *“Gravitation: Foundations and Frontiers”* (2010)  
+- M. Matsueda — *“Emergent Spacetime and Holographic Entropy”* (2014)  
+- S. Gao — *“A Critique of Entropic Gravity”* (2010)  
+- M. Müller — *“Law without Law: From Observer States to Physics via Algorithmic Information Theory”* (2020)  
+- B. Czech — *“Tensor Networks for Entanglement Evolution”* (2015)  
+- S. Carroll — *“Why Is There Something, Rather Than Nothing?”* (2018)  
+- C. Bény — *“Emergent Spacetime from Quantum Information Geometry”* (2015)  
+- L. Smolin — *“Time Reborn: From the Crisis in Physics to the Future of the Universe”* (2013)
 
 Waveframe attempts to formalize and extend these ideas into a falsifiable cosmological theory based on entropy and observation.
 
