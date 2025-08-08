@@ -1,66 +1,77 @@
-# Waveframe XR: Observer-Driven Cosmology Without Geometry
+# Waveframe V4.0: Observer-Driven Cosmology Without Geometry
 
 ## Overview
 
-> **Clarification on "XR"**  
-> This repository is **not** related to Extended Reality (XR), virtual reality, or node-based scene editors.  
->  
-> **Waveframe v4.0 XR** stands for **"Waveframe: eXtended Relativity"** — a speculative **cosmological framework** exploring how space, time, and expansion emerge from entropy gradients and observer-dependent collapse.  
->  
-> If you're looking for AR/VR or WebXR tooling, this is not that. This project belongs to the domain of **theoretical physics and cosmology**, not interactive 3D development.
+**Waveframe V4.0** is a speculative cosmological framework that reimagines the foundations of spacetime, entropy, and expansion. It rejects classical geometric assumptions and proposes that the universe emerges through observer-limited information flow and entropy gradients.
 
-Waveframe XR (v4.0) is a foundational overhaul of the Waveframe cosmological framework. It departs from classical geometric formulations entirely and proposes that spacetime itself is not fundamental, but emerges from quantum information collapse at the observational boundary of an entity's light cone.
+Where Waveframe v3.1 modeled expansion as a macroscopic entropy gradient on the cosmological horizon, V4.0 goes further: it treats *observation itself* as the act that generates spacetime. Geometry is not fundamental — it is the visible trace of quantum collapse across a boundary of coherence. Expansion reflects an observer’s entropic rendering rate, not the stretching of a pre-existing metric.
 
-Where Waveframe v3.1 modeled expansion as a macroscopic entropy gradient on the horizon, XR models observation as an active process that generates spacetime. Geometry is a byproduct of resolution, and expansion reflects an observer's entropic rendering rate.
+This model is speculative, but structured around formal derivations and falsifiable principles. It is not a modification of general relativity — it is a first-principles redefinition of cosmology through entropy and information.
 
-This project is speculative but rooted in rigorous formal principles. It is not an extension of general relativity, but a redefinition of cosmology from first informational principles.
+---
 
 ## Core Tenets
 
-1. Observer-defined horizons replace global geometry.
-2. Entropy = Horizon Area defines system information content:
+1. **Observer-defined horizons** replace global geometry.
+2. **Entropy = Horizon Area** defines the system’s information content:  
    S(t) = π ÷ H(t)²
-3. Expansion law emerges from resolution-dependent information intake — the act of observation drives evolution:
+3. **Expansion emerges** from resolution-dependent information intake:  
    H(t) ∝ 1 ÷ √(t − t₀)
-4. Metric tensor is replaced by an entropic structure tied to perceived causal boundaries.
-5. No field equations or energy-momentum tensors are used. Expansion is not derived from curvature but from informational degrees of freedom.
-6. Spacetime is emergent, not fundamental. Matter and geometry are encoded as quantum collapse events at a boundary of coherence.
+4. The **metric tensor is replaced** by an entropic structure tied to causal boundaries.
+5. **No field equations** or energy-momentum tensors are used; expansion is not derived from curvature.
+6. **Spacetime is emergent**, not fundamental. Matter and geometry arise from quantum collapse events on causal surfaces.
+
+---
 
 ## Research Goals
 
-• Derive standard cosmological observables from an observer-limited entropy framework.  
-• Replace the Einstein field equations with an information-action principle.  
-• Reproduce ΛCDM-compatible H(z), d_L(z), and fσ₈(z) predictions without invoking a scalar field, cosmological constant, or inflation.  
-• Provide falsifiable predictions regarding entropy discontinuities and rendering anomalies at high redshift.  
-• Formalize the concept of causal surface merging and holographic entropy continuity during structure formation.  
+• Derive standard cosmological observables from an entropy-first, observer-limited framework  
+• Replace Einstein’s field equations with an **information-action principle**  
+• Reproduce ΛCDM-compatible predictions for H(z), d_L(z), and fσ₈(z) without scalar fields, Λ, or inflation  
+• Predict falsifiable anomalies — entropy discontinuities, rendering asymmetries, or causal structure distortions at high redshift  
+• Formalize **causal surface merging** and holographic entropy continuity during structure formation  
+
+---
 
 ## Conceptual Highlights
 
-• **Observation is expansion**: Each bit of information acquired by a bounded observer expands the representable space.  
-• **Rendering spacetime**: The universe is a progressive collapse into higher resolution, like rendering pixels from a fractal seed.  
-• **Hubble flow = rendering rate**: The Hubble parameter represents the entropic update rate, not velocity of recession.  
+• **Observation is expansion**: Each bit of acquired information increases the representable universe.  
+• **Spacetime is rendered**: The universe emerges like resolution from a fractal — increasing entropy is increasing precision.  
+• **Hubble flow = rendering rate**: The Hubble parameter encodes the rate of entropy acquisition, not recession velocity.  
+
+---
 
 ## Related Works
 
-Waveframe XR builds on several speculative and rigorous precedents:  
-• T. Jacobson, “Thermodynamics of Spacetime: The Einstein Equation of State” (1995)  
-• E. Verlinde, “Emergent Gravity and the Dark Universe” (2016)  
-• T. Padmanabhan, “Gravitation: Foundations and Frontiers” (2010)  
-• M. Matsueda, “Emergent Spacetime and Holographic Entropy” (2014)  
-• S. Gao, “A critique of entropic gravity” (2010)  
+Waveframe V4.0 draws inspiration from prior theoretical and emergent-gravity work:
 
-These works laid the groundwork for interpreting spacetime and gravity as emergent phenomena. Waveframe XR attempts to extend these ideas into a coherent cosmological framework with falsifiable predictions.
+• T. Jacobson — *“Thermodynamics of Spacetime: The Einstein Equation of State”* (1995)  
+• E. Verlinde — *“Emergent Gravity and the Dark Universe”* (2016)  
+• T. Padmanabhan — *“Gravitation: Foundations and Frontiers”* (2010)  
+• M. Matsueda — *“Emergent Spacetime and Holographic Entropy”* (2014)  
+• S. Gao — *“A Critique of Entropic Gravity”* (2010)
+
+Waveframe attempts to formalize and extend these ideas into a falsifiable cosmological theory based on entropy and observation.
+
+---
 
 ## Licensing & Attribution
 
-This project is dual-licensed:
+This repository is **dual-licensed**:
 
-• **Apache License 2.0** — for code and computational tools  
-• **Creative Commons BY-NC 4.0** — for theoretical content, figures, and documentation  
+• `Apache License 2.0` — for code and software artifacts  
+• `Creative Commons BY-NC 4.0` — for theoretical content, documentation, and figures  
 
-Commercial use, resale, or misattribution is strictly prohibited unless explicitly permitted in writing. Attribution is required in all derivative or redistributed works. See `LICENSE`, `LICENSE-NC.md`, and `NOTICE.txt` for full terms.
+> Commercial use, resale, or misattribution is strictly prohibited unless explicitly permitted in writing.  
+> Attribution is required for all derivative or redistributed works.  
+
+See [`LICENSE`](./LICENSE), [`LICENSE-NC.md`](./LICENSE-NC.md), and [`NOTICE.txt`](./NOTICE.txt) for full legal terms.
+
+---
+
+## Author & Repository
 
 **Primary Author**: Shawn C. Wright  
-**Version**: Waveframe v4.0 — XR  
-**Repository**: https://github.com/Wright-Shawn/waveframe-v4.0-XR  
-**Last Updated**: 2025-08-06
+**Version**: Waveframe V4.0  
+**Repository**: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)  
+**Last Updated**: 2025-08-07
