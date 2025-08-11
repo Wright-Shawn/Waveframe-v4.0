@@ -47,7 +47,7 @@ By grounding cosmic dynamics in a generalized entropy–action principle, Wavefr
 
 </details>
 
-📄 Full text: [See `/changelog/waveframe_v4.0.md`](./changelog/waveframe_v4.0.md)
+📄 Full text: [See `/changelog/waveframe_v4.0.md`](./CHANGELOG/Waveframe_V4.0.md)
 
 ---
 
