@@ -82,6 +82,35 @@ By grounding cosmic dynamics in a generalized entropy–action principle, Wavefr
 
 ---
 
+## Falsifiability Criteria
+
+Waveframe V4.0 is designed to be **falsifiable** through direct comparison with cosmological observations.  
+Full details are in [https://github.com/Wright-Shawn/Waveframe-v4.0/blob/main/Docs/Falsifiability.md?plain=1](./docs/Falsifiability.md)
+
+A condensed list of **non-negotiable pass/fail tests**:
+
+1. **BBN Constraints** –  
+   H(t) must match ΛCDM within ≈5% for cosmic temperatures 0.1–10 MeV to preserve observed light-element abundances.  
+
+2. **CMB Acoustic Peaks** –  
+   Must reproduce ΛCDM sound horizon and angular diameter distance at z ≈ 1100 within Planck error margins.  
+
+3. **Distance–Redshift Relation** –  
+   Predictions for H(z) and luminosity distance d_L(z) must fit SN Ia and BAO data to within observational uncertainties.  
+
+4. **Growth of Structure** –  
+   fσ₈(z) curves must remain consistent with RSD and weak-lensing surveys.  
+
+5. **Limit-Case Recovery** –  
+   Model must mathematically reduce to ΛCDM, v1/v2 scalar-field models, and v3.x entropy models under stated limits.  
+
+6. **Unique Predictions** –  
+   Model must predict at least one late-time or high-z deviation not degenerate with existing dark-energy parameterizations.  
+
+If any of the above fail under best-fit parameters, the model is considered **empirically falsified**.
+
+---
+
 ## Conceptual Highlights
 
 • **Observation is expansion**: Each bit of acquired information increases the representable universe.  
@@ -145,4 +174,4 @@ See [`LICENSE`](./LICENSE), [`LICENSE-NC.md`](./LICENSE-NC.md), and [`NOTICE.txt
 **Primary Author**: Shawn C. Wright  
 **Version**: Waveframe V4.0  
 **Repository**: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)  
-**Last Updated**: 2025-08-07
+**Last Updated**: 2025-08-11
