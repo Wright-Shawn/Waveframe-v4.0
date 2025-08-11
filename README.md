@@ -85,7 +85,7 @@ By grounding cosmic dynamics in a generalized entropy–action principle, Wavefr
 ## Falsifiability Criteria
 
 Waveframe V4.0 is designed to be **falsifiable** through direct comparison with cosmological observations.  
-Full details are in [https://github.com/Wright-Shawn/Waveframe-v4.0/blob/main/Docs/Falsifiability.md](./docs/Falsifiability.md)
+Full details are in (Docs/Falsifiability.md)
 
 A condensed list of **non-negotiable pass/fail tests**:
 
