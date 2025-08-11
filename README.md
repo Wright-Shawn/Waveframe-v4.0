@@ -12,6 +12,45 @@ It is intended for theoretical physics researchers and advanced cosmology enthus
 
 ---
 
+## What's New in Waveframe v4.0
+
+Waveframe v4.0 unifies all prior versions of the Waveframe Hypothesis into a single, entropy–action cosmological framework.  
+It brings scalar-field models (v1.0–v2.0), entropy-driven expansions (v3.x), and ΛCDM itself under one theoretical roof.
+
+**At a Glance**
+- **Unified Entropy–Action Formalism** – One variational principle from which all prior models emerge as special cases.
+- **ΛCDM as a Limit Case** – Full recovery of standard cosmology in the appropriate regimes.
+- **Scalar-Field Dynamics Recovered** – The oscillatory behaviors of v1.0–v2.0 appear naturally from entropy–action constraints.
+- **Entropy-Driven Expansion** – The pure informational laws of v3.x embedded in a broader physical framework.
+- **New Structure Formation Mechanism** – Growth via “entropy merging” of informational degrees of freedom.
+
+<details>
+<summary>Expand for full release notes</summary>
+
+### Key Advances over v3.1
+- **Entropy–Action Derivation** – A full variational formalism linking horizon entropy, observer information, and causal boundaries.  
+- **Emergent Spacetime Dynamics** – Time and geometry arise from entropy gradients, directly tying horizon area growth to expansion rate.  
+- **Hubble Law from Entropy Growth** – Standard Hubble law recovered as a limit; predicts deviations in certain regimes.  
+- **Structure Formation from Entropy Merging** – Consistent with ΛCDM perturbation theory in the limit case.  
+- **Limit Case Mapping** – Explicit recovery of:
+  - ΛCDM (flat and curved)
+  - v1.0/v2.0 scalar-field cosmologies
+  - v3.x entropy-growth models
+- **Philosophical & Observational Bridge** – Connects thermodynamics and information theory to measurable parameters.
+
+### Why v4.0 Matters
+v4.0 is not a replacement for earlier models — it is their parent theory.  
+By grounding cosmic dynamics in a generalized entropy–action principle, Waveframe now:
+- Explains why earlier models work.
+- Connects cosmology to deeper information-theoretic laws.
+- Retains falsifiability through direct links to H(z), μ(z), and fσ₈(z).
+
+</details>
+
+📄 Full text: [See `/changelog/waveframe_v4.0.md`](./changelog/waveframe_v4.0.md)
+
+---
+
 ## Core Tenets
 
 1. **Observer-defined horizons** replace the idea of a single, global geometry.  
