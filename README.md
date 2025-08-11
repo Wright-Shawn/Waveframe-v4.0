@@ -27,7 +27,7 @@ This model is speculative, but structured around formal derivations and falsifia
 
 • Derive standard cosmological observables from an entropy-first, observer-limited framework  
 • Replace Einstein’s field equations with an **information-action principle**  
-• Reproduce ΛCDM-compatible predictions for H(z), d_L(z), and fσ₈(z) without scalar fields, Λ, or inflation  
+• Recover ΛCDM behaviors in stated limits, with the goal of matching predictions for H(z), d_L(z), and fσ₈(z) without scalar fields, Λ, or inflation  
 • Predict falsifiable anomalies — entropy discontinuities, rendering asymmetries, or causal structure distortions at high redshift  
 • Formalize **causal surface merging** and holographic entropy continuity during structure formation  
 
@@ -79,4 +79,4 @@ See [`LICENSE`](./LICENSE), [`LICENSE-NC.md`](./LICENSE-NC.md), and [`NOTICE.txt
 **Primary Author**: Shawn C. Wright  
 **Version**: Waveframe V4.0  
 **Repository**: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)  
-**Last Updated**: 2025-08-07
+**Last Updated**: 2025-08-10
