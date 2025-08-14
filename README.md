@@ -10,10 +10,14 @@ This project did not emerge from a single “magic prompt.”
 It was built through hundreds of iterative inputs, cross-model critiques, and synthesis steps, managed like parallel R&D streams. The result is a mathematically explicit, falsifiable model — packaged in a structured, version-controlled GitHub repository.
 
 While speculative in physics, the primary purpose of Waveframe v4.0 is to demonstrate AI Workflow Designer skillsets:
-	•	Parallel Prompt Orchestration – Managing separate threads for derivations, critiques, predictions, and documentation.
-	•	Human-in-the-Loop Validation – Filtering, merging, and refining AI outputs into coherent results.
-	•	Numerical Analysis Implementation – Running model-vs-ΛCDM comparisons locally in Python under hardware constraints.
-	•	Reproducible Documentation – Delivering clear, traceable methods and results.
+
+ •	Parallel Prompt Orchestration – Managing separate threads for derivations, critiques, predictions, and documentation.
+
+ •	Human-in-the-Loop Validation – Filtering, merging, and refining AI outputs into coherent results.
+
+ •	Numerical Analysis Implementation – Running model-vs-ΛCDM comparisons locally in Python under hardware constraints.
+
+ •	Reproducible Documentation – Delivering clear, traceable methods and results.
 
 ⸻
 
@@ -35,24 +39,33 @@ Recruiters and technical reviewers will find:
 ## Core Tenets
 	1.	Observer-defined horizons replace the idea of a single, global geometry.
 	•	An observer’s “universe” is bounded by their causal horizon, an information boundary rather than a fixed metric surface.
-	2.	Spacetime is emergent, not fundamental.
+
+ 2.	Spacetime is emergent, not fundamental.
 	•	Matter and geometry arise from quantum collapse events on causal surfaces.
-	3.	Entropy = Horizon Area defines the system’s information content:
+
+ 3.	Entropy = Horizon Area defines the system’s information content:
 	•	S(t) = π / [H(t)]², where H(t) is the observer’s Hubble parameter (in s⁻¹).
-	4.	Expansion emerges from resolution-dependent information intake:
+
+ 4.	Expansion emerges from resolution-dependent information intake:
 	•	H(t) ∝ 1 / √(t − t₀), where t₀ is the observer’s reference start time for measurement.
-	5.	Field equations are replaced with an information-action principle.
+
+ 5.	Field equations are replaced with an information-action principle.
 	•	Dynamics follow entropy growth and causal boundary changes instead of curvature.
-	6.	The metric tensor is replaced by an entropic structure tied to causal boundaries.
+
+ 6.	The metric tensor is replaced by an entropic structure tied to causal boundaries.
 
 ⸻
 
 ## Research Goals
 	•	Show that an AI-orchestrated workflow can produce a fully-formed cosmological framework, complete with derivations, predictions, and falsifiability criteria.
-	•	Derive standard cosmological observables from an entropy-first, observer-limited perspective.
-	•	Recover ΛCDM behaviors in stated limits without scalar fields, Λ, or inflation.
-	•	Predict measurable deviations in CMB, BAO, and structure growth.
-	•	Package the work in a transparent, reproducible repository for technical review.
+
+ •	Derive standard cosmological observables from an entropy-first, observer-limited perspective.
+
+ •	Recover ΛCDM behaviors in stated limits without scalar fields, Λ, or inflation.
+
+ •	Predict measurable deviations in CMB, BAO, and structure growth.
+
+ •	Package the work in a transparent, reproducible repository for technical review.
 
 ⸻
 
