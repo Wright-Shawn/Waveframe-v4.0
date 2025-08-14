@@ -112,7 +112,9 @@ If these fail under best-fit parameters, the model is considered empirically fal
 	•	Apache License 2.0 – For code and software artifacts
 	•	Creative Commons BY-NC 4.0 – For theoretical content, documentation, and figures
 Attribution is required; commercial use or resale prohibited without permission.
-
+Code is under Apache-2.0 (see LICENSE).
+Docs/figures/theory are under CC BY-NC-SA 4.0 (see LICENSE-NC.md).
+See LICENSE_POLICY.md for scope examples.
 ⸻
 
 ## Author
