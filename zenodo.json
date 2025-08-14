@@ -1,0 +1,22 @@
+{
+  "title": "Waveframe v4.0 \u2014 AI-Orchestrated Proof of Concept in Cosmology",
+  "version": "v4.0",
+  "upload_type": "software",
+  "description": "Waveframe v4.0 is a proof-of-concept cosmological framework built via a multi-threaded, AI-assisted research workflow with continuous human validation. It explores an entropy\u2013action, observer-driven expansion law (H(t) \u221d 1/\u221a(t \u2212 t\u2080), S(t) = \u03c0 / H(t)\u00b2) and compares it to \u039bCDM using locally run Python numerics. This release is intended for portfolio demonstration of AI Workflow Designer skills, parallel prompt orchestration, and reproducible independent research.",
+  "creators": [
+    {
+      "name": "Wright, Shawn"
+    }
+  ],
+  "license": "Apache-2.0",
+  "doi": "10.5281/zenodo.16872200",
+  "publication_date": "2025-08-13",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Wright-Shawn/Waveframe-v4.0",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
