@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Wright
+    given-names: Shawn
+title: "Waveframe v4.0 — AI-Orchestrated Proof of Concept in Cosmology"
+version: "v4.0"
+doi: 10.5281/zenodo.16872200
+date-released: 2025-08-13
+url: "https://github.com/Wright-Shawn/Waveframe-v4.0"
+license: "Apache-2.0"
+abstract: >
+  Waveframe v4.0 is a proof-of-concept cosmological framework built via a 
+  multi-threaded, AI-assisted research workflow with continuous human validation. 
+  It explores an entropy–action, observer-driven expansion law (H(t) ∝ 1/√(t − t₀), 
+  S(t) = π / H(t)²) and compares it to ΛCDM using locally run Python numerics. 
+  This release is intended for portfolio demonstration of AI Workflow Designer 
+  skills, parallel prompt orchestration, and reproducible independent research.
