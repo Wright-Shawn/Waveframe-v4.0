@@ -1,5 +1,7 @@
 # Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872200.svg)](https://doi.org/10.5281/zenodo.16872200)
+
 ## Overview
 
 Waveframe v4.0 is a proof-of-concept cosmological framework created through a multi-threaded, AI-assisted research process with continuous human oversight. It replaces the metric-first assumptions of ΛCDM with an entropy–action, observer-driven expansion law, treating observation itself as the generator of spacetime.
