@@ -37,7 +37,8 @@ Recruiters and technical reviewers will find:
 ⸻
 
 ## Core Tenets
-	1.	Observer-defined horizons replace the idea of a single, global geometry.
+
+ 1.	Observer-defined horizons replace the idea of a single, global geometry.
 	•	An observer’s “universe” is bounded by their causal horizon, an information boundary rather than a fixed metric surface.
 
  2.	Spacetime is emergent, not fundamental.
@@ -57,7 +58,8 @@ Recruiters and technical reviewers will find:
 ⸻
 
 ## Research Goals
-	•	Show that an AI-orchestrated workflow can produce a fully-formed cosmological framework, complete with derivations, predictions, and falsifiability criteria.
+
+ •	Show that an AI-orchestrated workflow can produce a fully-formed cosmological framework, complete with derivations, predictions, and falsifiability criteria.
 
  •	Derive standard cosmological observables from an entropy-first, observer-limited perspective.
 
