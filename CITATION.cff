@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 authors:
   - family-names: Wright
-    given-names: Shawn
+    given-names: Shawn C.
+    orcid: "https://orcid.org/0009-0006-6043-9295"
 title: "Waveframe v4.0 — AI-Orchestrated Proof of Concept in Cosmology"
 version: "v4.0"
 doi: 10.5281/zenodo.16872200
