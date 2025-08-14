@@ -115,9 +115,14 @@ Attribution is required; commercial use or resale prohibited without permission.
 
 ⸻
 
-## Author & Version
+## Author
 
-Primary Author: Shawn C. Wright
+- **Shawn C. Wright**  
+  ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)
+
+
+## Version
+ 
 Version: Waveframe v4.0
 Repository: github.com/Wright-Shawn/Waveframe-v4.0
 Last Updated: 2025-08-13
