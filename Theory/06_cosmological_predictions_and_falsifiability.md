@@ -1,58 +1,51 @@
 # Cosmological Predictions and Falsifiability
 
-## 1. Purpose
-This document lays out the **testable consequences** of the Waveframe V4.0 framework and defines precise criteria for falsification.  
-Predictions are expressed in terms of measurable cosmological quantities and linked directly to the XR model’s core principles.
+## Purpose
 
----
+This document describes the predictions made by Waveframe v4.0 and how they can be tested against real-world data.
+The approach is the same one I’d apply in an AI workflow: define expected outputs, establish test conditions, and make it easy to reproduce the results.
 
-## 2. Key Predictions
+⸻
 
-### 2.1 Hubble Parameter at High Redshift
-- **Prediction**: For z > 2, H(z) shows a **flattening slope** compared to ΛCDM by ΔX.  
-- **Reasoning**: The XR framework ties expansion rate to entropy acquisition, which scales differently than metric expansion.
-- **Falsification**: If observed H(z) remains within 1σ of ΛCDM for all z > 2.
+## Core Predictions
 
-### 2.2 Baryon Acoustic Oscillation (BAO) Scale Drift
-- **Prediction**: BAO scale drift < 0.2% per Gyr.
-- **Falsification**: Drift > 0.5% per Gyr in any well-calibrated dataset.
+The model makes measurable predictions for:
+	1.	Hubble Expansion Rate (H(z))
+	•	Derived from the entropy–action master equation.
+	•	Matches ΛCDM only in specific limit cases (see 08_limit_cases_and_connection_to_LCDM.md).
+	•	Deviates at certain redshift ranges, which allows observational tests.
+	2.	Structure Growth Rate (fσ₈(z))
+	•	Calculated from the model’s predicted expansion history.
+	•	Can be compared directly to galaxy survey data.
+	3.	Cosmic Microwave Background (CMB) Signatures
+	•	Small changes in background anisotropy patterns may appear if the model’s geometry differs significantly from ΛCDM at early times.
 
-### 2.3 Entropy Discontinuities
-- **Prediction**: Observable discontinuity in inferred horizon entropy at z ≈ 6.
-- **Reasoning**: Linked to large-scale causal surface merging during the end of reionization.
-- **Falsification**: No detectable discontinuity at expected epoch.
+⸻
 
-### 2.4 Rendering Asymmetries
-- **Prediction**: Measurable anisotropies in large-scale structure statistics when analyzed from different causal frames.
-- **Falsification**: Perfect isotropy within observational sensitivity limits.
+## Falsifiability Criteria
 
----
+The model should be considered ruled out if:
+	•	Observed H(z) differs significantly from the model’s prediction outside the range of measurement uncertainty.
+	•	Predicted structure growth rates disagree with survey measurements beyond statistical error bars.
+	•	CMB data strongly prefers ΛCDM over the entropy–action approach in model selection tests (e.g., χ² or Bayesian evidence).
 
-## 3. Observational Targets
-- High-z galaxy surveys (JWST, Roman Space Telescope).
-- BAO measurements (DESI, Euclid).
-- CMB secondary anisotropy mapping (SPT, ACT).
-- 21cm tomography for reionization-era entropy mapping.
+This is similar to setting unit tests for a machine learning model — if the predictions fall outside the defined tolerance ranges, the model fails.
 
----
+⸻
 
-## 4. Falsification Table
+## Testing Plan
+	1.	Numerical Implementation
+	•	Scripts: hubble_entropy_growth.py and structure_growth.py (planned additions).
+	•	Data sources: public cosmology datasets (e.g., BOSS, Planck, DES).
+	2.	Automated Validation
+	•	Python functions will compare predicted vs. observed values and output pass/fail summaries.
+	•	The process can be run end-to-end as a single pipeline.
+	3.	Reproducibility
+	•	All data preprocessing, parameter values, and code versions will be documented so anyone can rerun the tests.
 
-| Test | Predicted Outcome | Data That Would Falsify |
-|------|------------------|-------------------------|
-| H(z) @ z>2 | Flattening slope by ΔX | Within 1σ of ΛCDM |
-| BAO scale drift | Δ<0.2% / Gyr | Δ>0.5% / Gyr |
-| Entropy discontinuity | Presence at z≈6 | No discontinuity |
-| Rendering asymmetries | Detectable anisotropy | No anisotropy detected |
+⸻
 
----
+## Closing Note
 
-## 5. Importance of Falsifiability
-Waveframe V4.0’s credibility hinges on making **risky predictions** that could be proven wrong.  
-If all predictions fail, the model should be abandoned or fundamentally revised.
-
----
-
-## 6. Forward References
-- See `07_structure_formation_from_entropy_merging.md` for physical mechanisms behind entropy discontinuities.
-- See `04_hubble_parameter_as_rendering_rate.md` for derivation of high-z H(z) behavior.
+This falsifiability plan turns Waveframe v4.0 from “just a theory” into a testable, reproducible model.
+The same philosophy drives good AI workflows — measurable outputs, clear failure conditions, and transparent validation steps.
