@@ -127,6 +127,32 @@ If these fail under best-fit parameters, the model is considered empirically fal
 
 ⸻
 
+# README Additions/Edits (Drop‑In)
+
+## New section: Orchestration (add after Overview)
+**Orchestration (AI‑Assisted Development).**  
+Waveframe v4.0 was built via parallel prompt streams, targeted critiques, and human gating. The raw process is documented in `ORCHESTRATION.md`, with source dialogue and a chronological workflow in `docs/`. The skill demonstrated here is **AI Workflow Design**: turning ambiguous research goals into auditable artifacts.
+
+## New section: Demos (applied, business‑style)
+See `demos/` for transferable examples:
+- `streamlit_app.py` — interactive dashboard (entropy vs. redshift; swap in your own CSV).  
+- `report_generator.py` — converts a CSV of results into a short, human‑readable report.  
+- `pipelines/langflow_waveframe_template.json` — a starter graph for a no‑code pipeline.
+
+Run Streamlit demo locally:
+```bash
+pip install -r demos/requirements.txt
+streamlit run demos/streamlit_app.py
+```
+
+## New section: Planned No‑Code Work
+We’re extending core workflows to:
+- **Streamlit** for interactive apps and dashboards.
+- **Langflow/Flowise** for drag‑and‑drop orchestration of data → model → report.
+
+These show that the orchestration method generalizes beyond cosmology into **applied analytics** and **report automation**.
+
+
 ## Licensing & Attribution
 	•	Apache License 2.0 – For code and software artifacts
 	•	Creative Commons BY-NC 4.0 – For theoretical content, documentation, and figures
