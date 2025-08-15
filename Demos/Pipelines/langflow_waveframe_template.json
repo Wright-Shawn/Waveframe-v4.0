@@ -1,0 +1,38 @@
+{
+  "name": "Waveframe-Orchestration-Template",
+  "description": "Starter graph: CSV loader -> basic checks -> report writer",
+  "nodes": [
+    {
+      "id": "csv_loader",
+      "type": "DataSource",
+      "params": {
+        "path": "demos/data/sample_entropy_curve.csv"
+      }
+    },
+    {
+      "id": "sanity_checks",
+      "type": "Function",
+      "params": {
+        "check": "monotonic_z_and_nonneg_S"
+      }
+    },
+    {
+      "id": "report",
+      "type": "Action",
+      "params": {
+        "script": "demos/report_generator.py",
+        "args": "--csv ${csv_loader.path} --out demos/reports/demo_report.md"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "from": "csv_loader",
+      "to": "sanity_checks"
+    },
+    {
+      "from": "sanity_checks",
+      "to": "report"
+    }
+  ]
+}
