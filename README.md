@@ -2,6 +2,25 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872200.svg)](https://doi.org/10.5281/zenodo.16872200)
 
+## What This Is (Plain Language)
+
+Waveframe v4.0 is a self-directed research project that uses AI tools, guided by human oversight, to design and test a new cosmology model.
+It’s less about proving physics and more about showcasing an AI-assisted research workflow — taking an idea from concept to derivations, implementations, and falsifiable predictions.
+All code was generated, refined, and tested using AI, with my role as orchestrator: defining problems, managing multiple workstreams, validating outputs, and producing reproducible results.
+The project structure and process mirror modern AI/ML workflows, making it relevant for AI workflow designer and technical documentation roles as well as scientific modeling.
+
+⸻
+
+## Skills Demonstrated
+
+ •	Parallel AI Thread Management — running multiple prompt streams for derivations, predictions, and documentation.
+
+ •	Human-in-the-Loop Validation — refining AI outputs for accuracy and coherence.
+
+ •	Numerical Modeling & Analysis — comparing models to ΛCDM under constraints.
+
+ •	Reproducibility & Documentation — packaging results in a fully version-controlled, traceable GitHub repo.
+
 ## Overview
 
 Waveframe v4.0 is a proof-of-concept cosmological framework created through a multi-threaded, AI-assisted research process with continuous human oversight. It replaces the metric-first assumptions of ΛCDM with an entropy–action, observer-driven expansion law, treating observation itself as the generator of spacetime.
