@@ -12,16 +12,16 @@ The approach is the same one I’d apply in an AI workflow: define expected outp
 The model makes measurable predictions for:
 
  1.	Hubble Expansion Rate (H(z))
-	•	Derived from the entropy–action master equation.
-	•	Matches ΛCDM only in specific limit cases (see 08_limit_cases_and_connection_to_LCDM.md).
-	•	Deviates at certain redshift ranges, which allows observational tests.
+ •	Derived from the entropy–action master equation.
+•	Matches ΛCDM only in specific limit cases (see 08_limit_cases_and_connection_to_LCDM.md).
+•	Deviates at certain redshift ranges, which allows observational tests.
 
  2.	Structure Growth Rate (fσ₈(z))
-	•	Calculated from the model’s predicted expansion history.
-	•	Can be compared directly to galaxy survey data.
+•	Calculated from the model’s predicted expansion history.
+•	Can be compared directly to galaxy survey data.
 
  3.	Cosmic Microwave Background (CMB) Signatures
-	•	Small changes in background anisotropy patterns may appear if the model’s geometry differs significantly from ΛCDM at early times.
+•	Small changes in background anisotropy patterns may appear if the model’s geometry differs significantly from ΛCDM at early times.
 
 ⸻
 
@@ -42,15 +42,15 @@ This is similar to setting unit tests for a machine learning model — if the pr
 ## Testing Plan
 	
  1.	Numerical Implementation
-	•	Scripts: hubble_entropy_growth.py and structure_growth.py (planned additions).
-	•	Data sources: public cosmology datasets (e.g., BOSS, Planck, DES).
+•	Scripts: hubble_entropy_growth.py and structure_growth.py (planned additions).
+•	Data sources: public cosmology datasets (e.g., BOSS, Planck, DES).
 	
  2.	Automated Validation
-	•	Python functions will compare predicted vs. observed values and output pass/fail summaries.
-	•	The process can be run end-to-end as a single pipeline.
+•	Python functions will compare predicted vs. observed values and output pass/fail summaries.
+•	The process can be run end-to-end as a single pipeline.
 	
  3.	Reproducibility
-	•	All data preprocessing, parameter values, and code versions will be documented so anyone can rerun the tests.
+•	All data preprocessing, parameter values, and code versions will be documented so anyone can rerun the tests.
 
 ⸻
 
