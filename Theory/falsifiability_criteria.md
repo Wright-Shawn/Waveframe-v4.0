@@ -1,69 +1,67 @@
-# Falsifiability Criteria — Waveframe V4.0
+# Falsifiability Checklist — Waveframe v4.0
 
 ## Purpose
-Define the **non-negotiable observational tests** that determine whether the Waveframe V4.0 entropy–action cosmology is viable. These tests must be applied to **any** proposed α(t) profile within the model.
 
----
+This is a quick-reference guide for testing whether the Waveframe v4.0 model holds up against real-world data.
+It’s built like a quality-assurance checklist you’d see in AI model development — clear criteria, easy to rerun, and results that are straightforward to interpret.
 
-## 1. Early-Universe Constraints
+⸻
 
-**1.1 Big Bang Nucleosynthesis (BBN)**  
-- Condition: H(t) during **T ≈ 0.1–10 MeV** must match ΛCDM within **±5%**.  
-- Justification: Deviations at this level alter light-element abundances beyond observed limits.
+## 1. Define What the Model Predicts
 
-**1.2 Cosmic Microwave Background (CMB) Acoustic Scale**  
-- Condition: The sound horizon at recombination r_s(z*) and the angular diameter distance D_A(z*) must both match Planck best-fit ΛCDM within **±0.5%** at z* ≈ 1100.  
-- Justification: These scales are measured at high precision and serve as “anchor points” for the cosmic expansion history.
+ •	Hubble Expansion Rate (H(z)) from entropy–action equations
 
----
+ •	Structure Growth (fσ₈(z)) from model-derived expansion history
 
-## 2. Late-Universe Expansion History
+ •	Optional: CMB Pattern Shifts relative to ΛCDM baseline
 
-**2.1 Hubble Parameter H(z)**  
-- Condition: H(z) predictions must agree with combined BAO + SN Ia constraints within **1σ uncertainties** over the range **0 ≤ z ≤ 2**.  
-- Justification: This redshift range directly probes the model’s late-time “personality” while anchored by observations.
+⸻
 
-**2.2 Luminosity Distance d_L(z)**  
-- Condition: Residuals against Pantheon+ SN Ia dataset must yield χ² per degree of freedom within **10%** of ΛCDM best-fit.
+## 2. Select Real-World Data Sources
 
----
+ •	Galaxy survey expansion data (BOSS, DES, eBOSS)
 
-## 3. Structure Formation
+ •	Structure growth measurements from redshift-space distortions
 
-**3.1 Growth Rate fσ₈(z)**  
-- Condition: Predictions must lie within the 1σ envelopes of current RSD (redshift-space distortion) measurements over **0 ≤ z ≤ 1**.  
-- Justification: Modified expansion rates directly affect structure growth.
+ •	CMB anisotropy maps (Planck, WMAP)
 
----
+⸻
 
-## 4. Internal Consistency
+## 3. Implement the Tests
 
-**4.1 Recoverability of ΛCDM**  
-- Any α(t) form must have a parameter limit that **exactly** reproduces ΛCDM H(z) over all z.  
-- Ensures that the model is a superset rather than an unrelated theory.
+ •	Compute predictions using Python scripts (hubble_entropy_growth.py, structure_growth.py)
 
-**4.2 Parameter Transparency**  
-- α(t) must be defined by a finite, explicit set of parameters — no hidden time dependence or curve fitting to the data post-hoc.  
-- Prevents “cheating” via unconstrained functional freedom.
+ •	Align observed and predicted data over matching redshift bins
 
----
+ •	Calculate statistical measures (χ², residuals, Bayesian evidence)
 
-## 5. Pass/Fail Definition
+⸻
 
-The model is **falsified** if:  
-- It fails **any** of the early-universe criteria (BBN, CMB), **or**  
-- It fails **two or more** of the late-universe tests at the defined thresholds.
+## 4. Apply Pass/Fail Conditions
 
-The model is **provisionally viable** if:  
-- It passes all early-universe tests, and  
-- It passes at least **three out of four** late-universe tests within the stated limits.
+ •	H(z) matches observations within measurement error margins
 
----
+ •	fσ₈(z) predictions align within observational uncertainties
 
-## 6. Testing Protocol
+ •	CMB preference score does not strongly reject Waveframe v4.0 compared to ΛCDM
 
-1. Choose α(t) form and parameters **before** comparing to data.  
-2. Compute H(z), d_L(z), r_s, D_A, fσ₈(z) using standard cosmology code (e.g., CLASS, CAMB).  
-3. Compare directly to ΛCDM best-fit observational benchmarks.  
-4. Record χ² and residuals for transparency.  
-5. Archive all results and code in repository for reproducibility.
+⸻
+
+## 5. Automate for Reproducibility
+
+ •	Create a single pipeline script to run all tests in sequence
+
+ •	Use configuration files (YAML/JSON) for parameter tuning
+
+ •	Store results in a versioned output directory for tracking
+
+⸻
+
+## Outcome
+
+If the model fails one or more of these tests in a statistically significant way, it should be considered falsified under the current assumptions.
+If it passes, the result is not “proof” but increased confidence — the same standard applied to AI models during performance validation.
+
+⸻
+
+This format not only makes it easier for others to run the tests, but also shows a systems-thinking approach that’s directly applicable to AI workflow roles.
