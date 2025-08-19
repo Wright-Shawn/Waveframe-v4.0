@@ -1,22 +1,19 @@
 name: CI
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  push:            # run on any push, any branch
+  pull_request:    # and on PRs
+  workflow_dispatch:  # and let you run it manually from the Actions tab
 
 jobs:
-  build:
+  ok:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v3
+      - name: Check out repo
+        uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: "3.x"
-
-      - name: Run sanity check
-        run: echo "✅ Workflow ran successfully!"
+      - name: Sanity ping
+        run: |
+          echo "✅ GitHub Actions is alive."
+          uname -a
+          python3 --version || true
