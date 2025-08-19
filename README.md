@@ -8,11 +8,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-green.svg)](https://orcid.org/0009-0006-6043-9295)
 
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872200.svg)](https://doi.org/10.5281/zenodo.16872200)
-
-![CI](https://github.com/Wright-Shawn/Waveframe-v4.0/actions/workflows/ci.yml/badge.svg)
-
 ## What This Is (Plain Language)
 
 Waveframe v4.0 is a self-directed research project that uses AI tools, guided by human oversight, to design and test a new cosmology model.  
