@@ -1,6 +1,15 @@
 # Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872200.svg)](https://doi.org/10.5281/zenodo.16872200)
+![CI](https://img.shields.io/github/actions/workflow/status/Wright-Shawn/Waveframe-v4.0/ci.yml?branch=main)
+[![License: Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](./LICENSE-NC.md)
+[![CITATION.cff](https://img.shields.io/badge/cite-CITATION.cff-brightgreen.svg)](./CITATION.cff)
+![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-green.svg)](https://orcid.org/0009-0006-6043-9295)
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872200.svg)](https://doi.org/10.5281/zenodo.16872200)
 
 ![CI](https://github.com/Wright-Shawn/Waveframe-v4.0/actions/workflows/ci.yml/badge.svg)
 
