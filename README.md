@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872200.svg)](https://doi.org/10.5281/zenodo.16872200)
 
+![CI](https://github.com/Wright-Shawn/Waveframe-v4.0/actions/workflows/ci.yml/badge.svg)
+
 ## What This Is (Plain Language)
 
 Waveframe v4.0 is a self-directed research project that uses AI tools, guided by human oversight, to design and test a new cosmology model.  
