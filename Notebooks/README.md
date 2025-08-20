@@ -2,7 +2,26 @@
 
 This folder contains Jupyter notebooks used for core computational analysis, model validation, and comparison to observational data in the Waveframe V4.0 project.
 
-## Contents
+---
+
+## Quickstart (recommended entry point)
+
+### `00_quickstart.ipynb`
+**Purpose:**  
+- A lightweight viewer/plotter for CSV results in `Analysis/`.  
+- Automatically detects common observables (`E(z)`, `D_A(z)`, `H(z)`, `fσ₈(z)`) and plots them.  
+- Intended as the **first notebook to run** for reviewers or new users.  
+
+**Dependencies:**  
+- `requirements.txt` (root of repo)  
+- CSVs in `Analysis/`
+
+**Outputs:**  
+- Interactive plots (optionally saves them under `Figures/auto/`)
+
+---
+
+## Core Analysis Notebooks
 
 ### 1. `compare_to_LCDM.ipynb`
 **Purpose:**  
@@ -66,6 +85,5 @@ This folder contains Jupyter notebooks used for core computational analysis, mod
 
 ## Usage Notes
 - All notebooks assume Python 3.10+ with `numpy`, `scipy`, `matplotlib`, and `pandas` installed.  
-- Run notebooks from the repository root to ensure relative paths to `equations/` and `Analysis/` work correctly.
-- For reproducibility, outputs are stored in `Analysis/` when applicable.
-
+- Run notebooks from the repository root to ensure relative paths to `equations/` and `Analysis/` work correctly.  
+- For reproducibility, outputs are stored in `Analysis/` when applicable.  
