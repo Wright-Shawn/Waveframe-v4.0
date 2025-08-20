@@ -1,5 +1,16 @@
 # Notebooks — Waveframe V4.0
 
+## Notebook Status
+
+**Runnable**
+- `00_quickstart_plug_and_play.ipynb` — Colab-ready, auto-discovers CSVs, plots E(z), D_A(z), H(z), growth if present.
+- `compare_to_LCDM.ipynb` — Baseline comparison of Waveframe vs ΛCDM with plots.
+
+**Archived (reference only)**
+- `Archive/falsifiability_tests.ipynb` — design notes; not maintained or runnable.
+- `Archive/hubble_distance_modulus.ipynb` — scaffolding; not maintained or runnable.
+- `Archive/structure_growth_fsigma8.ipynb` — scaffolding; not maintained or runnable.
+
 This folder contains Jupyter notebooks used for core computational analysis, model validation, and comparison to observational data in the Waveframe V4.0 project.
 
 ---
