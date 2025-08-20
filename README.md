@@ -44,7 +44,7 @@ While speculative in physics, the primary purpose of Waveframe v4.0 is to demons
 
 ## Orchestration (AI-Assisted Development)
 
-Waveframe v4.0 was built via parallel prompt streams, targeted critiques, and human gating. The raw process is documented in `ORCHESTRATION.md`, with source dialogue and a chronological workflow in `docs/`.  
+Waveframe v4.0 was built via parallel prompt streams, targeted critiques, and human gating. The raw process is documented in `ORCHESTRATION.md`, with source dialogue and a chronological workflow in `Docs/`.  
 
 The skill demonstrated here is **AI Workflow Design**: turning ambiguous research goals into auditable artifacts.
 
@@ -105,11 +105,11 @@ If these fail under best-fit parameters, the model is considered falsified.
 
 ## Deliverables in This Repository
 
-- `/theory` – Conceptual framework and derivations  
-- `/equations` – Final equations with assumptions and constraints  
-- `/notebooks` – Python analysis scripts for model-vs-ΛCDM comparisons  
-- `/analysis` – Results summaries, comparisons, figures, CSV outputs  
-- `/figures` – Plots for E(z), D_A(z), and growth factor  
+- `/Theory` – Conceptual framework and derivations  
+- `/Equations` – Final equations with assumptions and constraints  
+- `/Notebooks` – Python analysis scripts for model-vs-ΛCDM comparisons  
+- `/Analysis` – Results summaries, comparisons, figures, CSV outputs  
+- `/Figures` – Plots for E(z), D_A(z), and growth factor  
 - Licensing & attribution documents  
 
 ---
