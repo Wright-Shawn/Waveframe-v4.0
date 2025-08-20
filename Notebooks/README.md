@@ -29,7 +29,7 @@ This folder contains Jupyter notebooks used for core computational analysis, mod
 - Plots relative differences and computes χ² for observational datasets (SN Ia, BAO).
 
 **Dependencies:**  
-- `equations/hubble_entropy_growth.py`  
+- `Equations/hubble_entropy_growth.py`  
 - Observational datasets from `Analysis/`
 
 **Outputs:**  
@@ -40,11 +40,11 @@ This folder contains Jupyter notebooks used for core computational analysis, mod
 
 ### 2. `falsifiability_tests.ipynb`
 **Purpose:**  
-- Implements the full falsifiability criteria defined in `docs/Falsifiability.md`.  
+- Implements the full falsifiability criteria defined in `Docs/Falsifiability.md`.  
 - Automates pass/fail checks for early-universe constraints, distance–redshift fits, structure growth, parameter economy, and unique predictions.
 
 **Dependencies:**  
-- `equations/*`  
+- `Equations/*`  
 - Observational datasets from `Analysis/`
 
 **Outputs:**  
