@@ -8,60 +8,39 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-green.svg)](https://orcid.org/0009-0006-6043-9295)
 
+---
+
 ## What This Is (Plain Language)
 
-Waveframe v4.0 is a self-directed research project that uses AI tools, guided by human oversight, to design and test a new cosmology model.  
-It’s less about proving physics and more about showcasing an **AI-assisted research workflow** — taking an idea from concept to derivations, implementations, and falsifiable predictions.  
+Waveframe v4.0 is a self-directed research project that uses AI tools, guided by human oversight, to design and test a new cosmological model.  
+The focus is not on replacing ΛCDM, but on demonstrating an **AI-assisted research workflow**: from concept → derivations → falsifiable predictions.  
 
-All code was generated, refined, and tested using AI, with my role as orchestrator: defining problems, managing multiple workstreams, validating outputs, and producing reproducible results. The project structure and process mirror modern AI/ML workflows, making it relevant for **AI workflow design**, **technical documentation**, and **scientific modeling**.
+All code was generated and refined with AI, with my role as orchestrator: defining problems, managing multiple workstreams, validating outputs, and producing reproducible results. The repo mirrors modern AI/ML workflows, showing skills in **workflow design, numerical modeling, and transparent documentation**.
 
 ---
 
 ## Skills Demonstrated
 
-- **Parallel AI Thread Management** — running multiple prompt streams for derivations, predictions, and documentation.  
+- **Parallel AI Thread Management** — derivations, predictions, and documentation streams.  
 - **Human-in-the-Loop Validation** — refining AI outputs for accuracy and coherence.  
-- **Numerical Modeling & Analysis** — comparing models to ΛCDM under constraints.  
-- **Reproducibility & Documentation** — packaging results in a fully version-controlled, traceable GitHub repo.  
+- **Numerical Modeling & Analysis** — comparing Waveframe predictions to ΛCDM under constraints.  
+- **Reproducibility & Documentation** — version-controlled, traceable repository.  
 
 ---
 
 ## Overview
 
-Waveframe v4.0 is a proof-of-concept cosmological framework created through a multi-threaded, AI-assisted research process with continuous human oversight. It replaces the metric-first assumptions of ΛCDM with an entropy–action, observer-driven expansion law, treating observation itself as the generator of spacetime.  
+Waveframe v4.0 is a proof-of-concept cosmological framework created through multi-threaded, AI-assisted research with continuous human oversight. It replaces metric-first assumptions of ΛCDM with an entropy–action, observer-driven expansion law, treating observation itself as the generator of spacetime.  
 
-This project did not emerge from a single “magic prompt.”  
-It was built through hundreds of iterative inputs, cross-model critiques, and synthesis steps, managed like parallel R&D streams. The result is a mathematically explicit, falsifiable model — packaged in a structured, version-controlled GitHub repository.
-
-While speculative in physics, the primary purpose of Waveframe v4.0 is to demonstrate **AI Workflow Designer skillsets**:
-
-- **Parallel Prompt Orchestration** – Managing separate threads for derivations, critiques, predictions, and documentation.  
-- **Human-in-the-Loop Validation** – Filtering, merging, and refining AI outputs into coherent results.  
-- **Numerical Analysis Implementation** – Running model-vs-ΛCDM comparisons locally in Python under hardware constraints.  
-- **Reproducible Documentation** – Delivering clear, traceable methods and results.  
+This project was built through iterative inputs, cross-model critiques, and synthesis steps — managed like parallel R&D streams. The result is a mathematically explicit, falsifiable model packaged in a structured, version-controlled repository.
 
 ---
 
 ## Orchestration (AI-Assisted Development)
 
-Waveframe v4.0 was built via parallel prompt streams, targeted critiques, and human gating. The raw process is documented in `ORCHESTRATION.md`, with source dialogue and a chronological workflow in `Docs/`.  
+The workflow was built via parallel prompt streams, targeted critiques, and human gating. The raw process is documented in `ORCHESTRATION.md`, with source dialogue and a chronological workflow in `/Docs/`.  
 
-The skill demonstrated here is **AI Workflow Design**: turning ambiguous research goals into auditable artifacts.
-
----
-
-## Why It Matters
-
-Waveframe v4.0 demonstrates how complex, interdisciplinary research can be executed with limited resources by combining:  
-- Well-defined theoretical framing  
-- Modular development structure  
-- Built-in falsifiability criteria  
-- Complete, reproducible outputs  
-
-**For recruiters and reviewers:**  
-- A working example of AI-human research orchestration from concept to deliverables  
-- End-to-end traceability of methods, inputs, and outputs  
-- Demonstrated ability to manage complexity under constraints  
+This demonstrates **AI Workflow Design**: turning ambiguous research goals into auditable artifacts.
 
 ---
 
@@ -69,8 +48,8 @@ Waveframe v4.0 demonstrates how complex, interdisciplinary research can be execu
 
 1. **Observer-defined horizons** replace the idea of a single, global geometry.  
 2. **Spacetime is emergent, not fundamental.**  
-3. **Entropy = Horizon Area** defines the system’s information content:  
-   - S(t) = π / [H(t)]², where H(t) is the observer’s Hubble parameter (s⁻¹).  
+3. **Entropy = Horizon Area** defines system information:  
+   - S(t) = π / [H(t)]².  
 4. **Expansion emerges** from resolution-dependent information intake:  
    - H(t) ∝ 1 / √(t − t₀).  
 5. **Field equations → Information-action principle.**  
@@ -80,17 +59,17 @@ Waveframe v4.0 demonstrates how complex, interdisciplinary research can be execu
 
 ## Research Goals
 
-- Show that an AI-orchestrated workflow can produce a fully-formed cosmological framework, complete with derivations, predictions, and falsifiability criteria.  
+- Show that an AI-orchestrated workflow can produce a coherent cosmological framework.  
 - Derive standard cosmological observables from an entropy-first, observer-limited perspective.  
 - Recover ΛCDM behaviors in stated limits without scalar fields, Λ, or inflation.  
 - Predict measurable deviations in CMB, BAO, and structure growth.  
-- Package the work in a transparent, reproducible repository for technical review.  
+- Package the work in a transparent, reproducible repository.  
 
 ---
 
 ## Falsifiability Criteria
 
-Waveframe v4.0 is designed to be testable. The following pass/fail tests are non-negotiable:  
+Waveframe v4.0 is designed to be testable. Key pass/fail checks:
 
 1. **BBN Constraints** – Match ΛCDM within ≈5% for T ~ 0.1–10 MeV.  
 2. **CMB Acoustic Peaks** – Reproduce ΛCDM sound horizon & angular diameter distance at z ~ 1100.  
@@ -99,7 +78,7 @@ Waveframe v4.0 is designed to be testable. The following pass/fail tests are non
 5. **Limit-Case Recovery** – Reduce to ΛCDM and earlier Waveframe models.  
 6. **Unique Predictions** – At least one measurable deviation not degenerate with dark-energy models.  
 
-If these fail under best-fit parameters, the model is considered falsified.  
+Failure to meet these under best-fit parameters constitutes falsification.
 
 ---
 
@@ -110,39 +89,32 @@ If these fail under best-fit parameters, the model is considered falsified.
 - `/Notebooks` – Python analysis scripts for model-vs-ΛCDM comparisons  
 - `/Analysis` – Results summaries, comparisons, figures, CSV outputs  
 - `/Figures` – Plots for E(z), D_A(z), and growth factor  
+- `/Docs` – Supporting documentation including theoretical framework, falsifiability criteria, workflow log, version history, and dialogue excerpts  
+- `/Demos` – Streamlit app, report generator, sample data, and no-code pipeline templates  
 - Licensing & attribution documents  
-
----
-
-## Demos
-
-See `/demos` for transferable workflow examples:  
-
-- `streamlit_app.py` — interactive dashboard (entropy vs. redshift).  
-- `report_generator.py` — converts CSV results into a human-readable report.  
-- `pipelines/langflow_waveframe_template.json` — starter no-code orchestration graph.  
-
-**Run locally:**  
-```bash
-pip install -r demos/requirements.txt
-streamlit run demos/streamlit_app.py
-```
-
----
-
-## Planned No-Code Work
-
-Future extensions will package workflows into:  
-- **Streamlit** apps for interactive analytics and visualization.  
-- **Langflow/Flowise** pipelines for drag-and-drop orchestration.  
 
 ---
 
 ## Method Limitations
 
-- All calculations were run locally without CAMB/CLASS or external datasets.  
+- All calculations run locally without CAMB/CLASS or external solvers.  
 - CMB/BAO predictions are distance-only proxies (no Boltzmann solver yet).  
-- This is not a replacement for ΛCDM but a demonstration of **AI-assisted workflow execution**.  
+- This is not a replacement for ΛCDM, but a demonstration of **AI-assisted workflow execution**.  
+
+---
+
+## Demos
+
+This repository includes lightweight demos to illustrate how the workflow can be extended or visualized:
+
+- `streamlit_app.py` — interactive dashboard plotting entropy vs. redshift.  
+- `report_generator.py` — converts analysis CSVs into a formatted report.  
+- `pipelines/langflow_waveframe_template.json` — starter orchestration graph.  
+
+**Run locally:**  
+```bash
+pip install -r Demos/requirements.txt
+streamlit run demos/streamlit_app.py
 
 ---
 
@@ -179,4 +151,4 @@ ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)
 
 Version: Waveframe v4.0  
 Repository: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)  
-Last Updated: 2025-08-13  
+Last Updated: 2025-08-20  
