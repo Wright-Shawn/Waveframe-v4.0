@@ -44,7 +44,7 @@ While speculative in physics, the primary purpose of Waveframe v4.0 is to demons
 
 ## Orchestration (AI-Assisted Development)
 
-Waveframe v4.0 was built via parallel prompt streams, targeted critiques, and human gating. The raw process is documented in `ORCHESTRATION.md`, with source dialogue and a chronological workflow in `Docs/`.  
+Waveframe v4.0 was built via parallel prompt streams, targeted critiques, and human gating. The raw process is documented in `ORCHESTRATION.md`, with source dialogue and a chronological workflow in `docs/`.  
 
 The skill demonstrated here is **AI Workflow Design**: turning ambiguous research goals into auditable artifacts.
 
