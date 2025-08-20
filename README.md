@@ -17,6 +17,16 @@ The focus is not on replacing ΛCDM, but on demonstrating an **AI-assisted resea
 
 All code was generated and refined with AI, with my role as orchestrator: defining problems, managing multiple workstreams, validating outputs, and producing reproducible results. The repo mirrors modern AI/ML workflows, showing skills in **workflow design, numerical modeling, and transparent documentation**.
 
+## What is this?
+
+Waveframe v4.0 is an observer-driven cosmological framework that replaces metric-first assumptions with an entropy–action expansion law. It is designed to be explicit, falsifiable, and implemented in open, reproducible notebooks.
+
+<p align="center">
+  <img src="Figures/Ez_Hz_H0.png" alt="Expansion history comparison: ΛCDM vs Waveframe" width="600"/>
+</p>
+
+*Figure: Expansion history E(z) = H(z)/H₀ compared between ΛCDM and several Waveframe parameterizations.*
+
 ---
 
 ## Skills Demonstrated
