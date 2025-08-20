@@ -44,6 +44,6 @@ The documents are numbered to reflect their logical reading order, starting from
 ---
 
 ## Purpose of This Folder
-The **theory/** directory is the conceptual backbone of Waveframe v4.0, providing the reasoning and derivations behind all equations and computational models found in the `equations/` folder.
+The **Theory/** directory is the conceptual backbone of Waveframe v4.0, providing the reasoning and derivations behind all equations and computational models found in the `Equations/` folder.
 
 This ensures that all assumptions, derivations, and logical steps are documented for transparency, reproducibility, and peer review.
