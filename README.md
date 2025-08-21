@@ -104,7 +104,7 @@ Lightweight demos illustrate how the workflow can be extended:
 Run locally:  
 ```bash
 pip install -r Demos/requirements.txt
-streamlit run Demos/streamlit_app.pyp
+streamlit run Demos/streamlit_app.py
 ```
 
 ---
