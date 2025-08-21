@@ -102,7 +102,7 @@ Lightweight demos illustrate how the workflow can be extended:
 - `pipelines/langflow_waveframe_template.json` — orchestration starter template  
 
 Run locally:  
-```bash
+
 pip install -r Demos/requirements.txt
 streamlit run Demos/streamlit_app.pyp
 
