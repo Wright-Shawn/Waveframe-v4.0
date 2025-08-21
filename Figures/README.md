@@ -17,6 +17,5 @@ Examples include:
 ## Conventions
 - **`Figures/`**: top-level figures referenced in the README or papers.
 - **`Figures/auto/`**: analysis outputs generated directly from notebooks.
-- **`Figures/curated/`** *(optional)*: manually selected, polished figures for publication.
-
+  
 This separation ensures the repo remains reproducible while also keeping final, presentation-ready figures easy to find.
