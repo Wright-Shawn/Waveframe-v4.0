@@ -149,6 +149,6 @@ ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)
 
 ## Version
 
-Version: Waveframe v4.0  
+Version: Waveframe v4.0.1  
 Repository: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)  
 Last Updated: 2025-08-20 
