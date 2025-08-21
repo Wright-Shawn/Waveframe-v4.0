@@ -105,7 +105,7 @@ Run locally:
 ```bash
 pip install -r Demos/requirements.txt
 streamlit run Demos/streamlit_app.pyp
-'''
+```
 
 ---
 
