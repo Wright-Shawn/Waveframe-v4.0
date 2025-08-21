@@ -32,6 +32,15 @@ The aim is not to replace ΛCDM, but to demonstrate how **multi-threaded AI coll
 
 ---
 
+## Orchestration (AI-Assisted Development)
+
+Waveframe v4.0 was developed through **parallel prompt streams, targeted critiques, and human-in-the-loop gating**.  
+The orchestration process is documented in detail in `ORCHESTRATION.md` and supported by logs in `/Docs/`.  
+
+This demonstrates **AI Workflow Design**: transforming ambiguous research goals into reproducible, auditable artifacts.
+
+---
+
 ## Overview of the Model
 
 Waveframe v4.0 replaces metric-first assumptions with an **entropy–action, observer-driven expansion law**.  
