@@ -181,16 +181,6 @@ streamlit run Demos/streamlit_app.py
 
 ---
 
-## Licensing & Attribution
-
-- **Code**: Apache License 2.0 (`LICENSE`)  
-- **Theory, equations, figures, docs**: CC BY-NC 4.0 (`LICENSE-NC.md`)  
-
-Attribution is required. Commercial use prohibited without permission.  
-See `LICENSE_POLICY.md` for scope examples.  
-
----
-
 ## Portfolio Note
 
 This repository is part of a three-project portfolio demonstrating  
@@ -207,6 +197,26 @@ This repository is part of a three-project portfolio demonstrating
 
 Together these repos demonstrate that AWO can scale from business analytics  
 to advanced research — **handling complexity with structure, documentation, and reproducibility.**
+
+---
+
+## Closing Note
+
+Waveframe v4.0 should be read as a **workflow demonstration**, not a finished physics theory.  
+The cosmology model is exploratory; the real contribution is showing how **AI Workflow Orchestration (AWO)** can structure complex, uncertain research into a reproducible, auditable project.  
+
+---
+
+## Licensing & Attribution
+
+- **Code**: Apache License 2.0 (`LICENSE`)  
+- **Theory, equations, figures, docs**: CC BY-NC 4.0 (`LICENSE-NC.md`)  
+
+Attribution is required. Commercial use prohibited without permission.  
+See `LICENSE_POLICY.md` for scope examples.  
+
+
+---
 
 ## Author
 
