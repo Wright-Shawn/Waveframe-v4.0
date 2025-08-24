@@ -79,6 +79,25 @@ Key pass/fail checks:
 
 Failure under best-fit parameters = falsification.
 
+## Empirical Predictions (Audit-Ready)
+
+This section makes Waveframe’s claims **attackable** on real data. Each observable has:
+- a target deviation window vs ΛCDM,
+- the dataset used to test it,
+- links to the exact notebook and figure that produce the number.
+
+> Full details live in [`Docs/Empirical_Predictions.md`](Docs/Empirical_Predictions.md).
+
+| Observable | z / range | Waveframe vs ΛCDM (Δ target) | Dataset to test | Notebook | Figure | Status |
+|---|---|---:|---|---|---|---|
+| Distance modulus μ(z) (SN Ia) | 0–1.5 | ≤ 0.03 mag RMS | Pantheon+/DES | `Notebooks/sn_distance_modulus.ipynb` | `Figures/sn_residuals.png` | ☐ Pending |
+| Expansion history E(z)=H/H₀ | 0–2 | ≤ 3% | BAO chronometers | `Notebooks/hubble_Ez_compare.ipynb` | `Figures/Ez_comparison.png` | ☐ Pending |
+| Growth fσ₈(z) | 0–1 | within −2% … +4% | RSD (BOSS/eBOSS, DES) | `Notebooks/growth_fsigma8.ipynb` | `Figures/fs8_tracks.png` | ☐ Pending |
+| CMB acoustic scale θ\* | z≈1100 | ≤ 0.3% | Planck 2018 | `Notebooks/cmb_theta_star.ipynb` | `Figures/theta_star.png` | ☐ Pending |
+| Angular diameter distance D_A(z\*) | z≈1100 | ≤ 1% | Planck 2018 | `Notebooks/cmb_distances.ipynb` | `Figures/DA_recomb.png` | ☐ Pending |
+
+**Interpretation rule:** if best-fit parameters violate any row’s window → model configuration is **falsified**.  
+
 ---
 
 ## Deliverables in This Repository
