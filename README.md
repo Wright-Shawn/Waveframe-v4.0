@@ -76,18 +76,40 @@ The project was developed through iterative inputs, critiques, and synthesis —
 
 ---
 
-## Falsifiability Criteria
+## Falsifiability Criteria (Workflow Scaffold)
 
-Key pass/fail checks:  
+This section is not meant as a final physics validation.  
+Instead, it demonstrates how **falsifiability can be wired into an AI-orchestrated workflow**.  
+Each line is a **pass/fail check** — the details can be filled in or revised later,  
+but the structure shows how reproducible science can be packaged in a repo.
 
-1. **BBN Constraints** – Match ΛCDM within ≈5% for T ~ 0.1–10 MeV  
-2. **CMB Acoustic Peaks** – Reproduce ΛCDM sound horizon & angular diameter distance at z ~ 1100  
-3. **Distance–Redshift Relation** – Fit SN Ia and BAO data within uncertainties  
-4. **Growth of Structure** – Keep fσ₈(z) consistent with RSD and weak lensing  
-5. **Limit-Case Recovery** – Reduce to ΛCDM and earlier Waveframe models  
-6. **Unique Predictions** – At least one measurable deviation not degenerate with dark-energy models  
+Key scaffolds:
 
-Failure under best-fit parameters = falsification.
+1. **BBN Constraints** – match ΛCDM within ≈5% for T ~ 0.1–10 MeV  
+   *(included as a placeholder for early-universe checks)*
+
+2. **CMB Acoustic Peaks** – reproduce ΛCDM angular scales at z ~ 1100  
+   *(workflow notes how this would be tested, even if not fully implemented here)*
+
+3. **Distance–Redshift Relation** – compare SN Ia and BAO curves to ΛCDM  
+   *(notebooks generate example figures, showing how checks would run)*
+
+4. **Growth of Structure** – track fσ₈(z) against RSD/weak lensing  
+   *(scaffolded with synthetic or sample data for demonstration)*
+
+5. **Limit-Case Recovery** – ensure parameters reduce Waveframe to ΛCDM in the correct limits  
+   *(a workflow test, not a full physics proof)*
+
+6. **Unique Predictions** – at least one parameterization diverges measurably from ΛCDM  
+   *(workflow demonstrates how to flag and log this)*
+
+---
+
+### Why This Matters
+
+The **point isn’t correctness of the cosmology** —  
+it’s that the workflow explicitly defines *how* correctness would be tested,  
+turning fuzzy research ideas into **auditable, reproducible criteria**.
 
 ## Empirical Predictions (Audit-Ready)
 
