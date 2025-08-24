@@ -12,8 +12,18 @@
 
 ## What This Is
 
-Waveframe v4.0 is a self-directed research project using **AI-assisted workflow design** to build a falsifiable cosmological framework.  
-The aim is not to replace ΛCDM, but to demonstrate how **multi-threaded AI collaboration + human orchestration** can produce explicit models, derivations, and predictions in a reproducible way.
+Waveframe v4.0 is a **proof-of-concept research project** built to test how  
+**AI Workflow Orchestration (AWO)** can manage a complex, ambiguous scientific domain.
+
+The project explores an entropy–action expansion framework as an alternative to ΛCDM,  
+but the physics content is **secondary**. The real aim is to demonstrate:
+
+- how multi-threaded AI collaboration + human validation can handle complexity,  
+- how reproducibility and falsifiability can be wired into an AI-driven workflow,  
+- how to package outputs (figures, notebooks, logs) into a version-controlled, auditable repo.
+
+Think of Waveframe v4.0 not as a final cosmology theory, but as a **case study** showing that  
+AI-assisted research can be structured, documented, and shipped in the same way as serious software.
 
 <p align="center">
   <img src="Figures/Ez_Hz_H0.png" alt="Expansion history comparison: ΛCDM vs Waveframe" width="600"/>
@@ -158,6 +168,23 @@ Attribution is required. Commercial use prohibited without permission.
 See `LICENSE_POLICY.md` for scope examples.  
 
 ---
+
+## Portfolio Note
+
+This repository is part of a three-project portfolio demonstrating  
+**AI Workflow Orchestration (AWO)** applied across domains:
+
+- **[AI Workflow Orchestration (AWO)](https://github.com/Wright-Shawn/AI-Workflow-Orchestration)**  
+  Flagship method repo — defines the orchestration framework.
+
+- **[Customer Review Analysis](https://github.com/Wright-Shawn/Customer-Review-Analysis)**  
+  Applied business demo — sentiment + theme extraction with validation and reproducibility.
+
+- **[Waveframe v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)**  
+  Research case study — applying orchestration to a frontier scientific problem.
+
+Together these repos demonstrate that AWO can scale from business analytics  
+to advanced research — **handling complexity with structure, documentation, and reproducibility.**
 
 ## Author
 
