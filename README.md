@@ -7,7 +7,7 @@
 
 ---
 
-## mWhat This Is
+## What This Is
 
 Waveframe v4.0 is a **proof-of-concept research project** built to test how  
 **AI Workflow Orchestration (AWO)** can manage a complex, ambiguous scientific domain.
