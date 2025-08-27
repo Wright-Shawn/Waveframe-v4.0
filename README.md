@@ -228,4 +228,6 @@ ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)
 
 Version: Waveframe v4.0.1  
 Repository: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)  
+(CONCEPT)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)
+(LATEST VERSION)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16970443.svg)](https://doi.org/10.5281/zenodo.16970443)
 Last Updated: 2025-08-20 
