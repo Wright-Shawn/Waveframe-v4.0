@@ -225,7 +225,7 @@ See `LICENSE_POLICY.md` for scope examples.
 
 ## Version
 
-Version: Waveframe v4.0.1  
+Version: Waveframe v4.0.4 
 
 Repository: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)  
 
