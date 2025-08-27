@@ -4,7 +4,6 @@
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](./LICENSE-NC.md)
 [![CITATION.cff](https://img.shields.io/badge/cite-CITATION.cff-brightgreen.svg)](./CITATION.cff)
-![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
 
 ---
 
@@ -234,4 +233,4 @@ Repository: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-S
 
 (LATEST VERSION)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16970443.svg)](https://doi.org/10.5281/zenodo.16970443)
 
-Last Updated: 2025-08-20 
+![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
