@@ -1,19 +1,37 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
+title: "Waveframe v4.0.4 — AI-Orchestrated Proof of Concept in Cosmology"
+version: "4.0.4"
+doi: "10.5281/zenodo.16970443"
+date-released: 2025-08-27
+repository-code: "https://github.com/Wright-Shawn/Waveframe-v4.0"
+license: "Apache-2.0"
+
 authors:
   - family-names: Wright
     given-names: Shawn C.
     orcid: "https://orcid.org/0009-0006-6043-9295"
-title: "Waveframe v4.0 — AI-Orchestrated Proof of Concept in Cosmology"
-version: "4.0.1"
-doi: "10.5281/zenodo.16970223"
-date-released: 2025-08-20
-repository-code: "https://github.com/Wright-Shawn/Waveframe-v4.0"
-license: "Apache-2.0"
+
 abstract: >
-  Waveframe v4.0 is a proof-of-concept cosmological framework built via a 
-  multi-threaded, AI-assisted research workflow with continuous human validation. 
-  It explores an entropy–action, observer-driven expansion law (H(t) ∝ 1/√(t − t₀), 
-  S(t) = π / H(t)²) and compares it to ΛCDM using locally run Python numerics. 
-  This release is intended for portfolio demonstration of AI Workflow Designer 
+  Waveframe v4.0 is a proof-of-concept cosmological framework built via a
+  multi-threaded, AI-assisted research workflow with continuous human validation.
+  It explores an entropy–action, observer-driven expansion law (H(t) ∝ 1/√(t − t₀),
+  S(t) = π / H(t)²) and compares it to ΛCDM using locally run Python numerics.
+  This release is intended for portfolio demonstration of AI Workflow Designer
   skills, parallel prompt orchestration, and reproducible independent research.
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.16872199"
+    description: "Concept DOI (always resolves to the latest version)"
+
+preferred-citation:
+  type: software
+  title: "Waveframe v4.0.4: Entropic Cosmology Framework"
+  authors:
+    - family-names: Wright
+      given-names: Shawn C.
+      orcid: "https://orcid.org/0009-0006-6043-9295"
+  year: 2025
+  doi: "10.5281/zenodo.16970443"
+  url: "https://github.com/Wright-Shawn/Waveframe-v4.0"
