@@ -5,11 +5,10 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](./LICENSE-NC.md)
 [![CITATION.cff](https://img.shields.io/badge/cite-CITATION.cff-brightgreen.svg)](./CITATION.cff)
 ![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-green.svg)](https://orcid.org/0009-0006-6043-9295)
 
 ---
 
-## What This Is
+## mWhat This Is
 
 Waveframe v4.0 is a **proof-of-concept research project** built to test how  
 **AI Workflow Orchestration (AWO)** can manage a complex, ambiguous scientific domain.
@@ -220,7 +219,8 @@ See `LICENSE_POLICY.md` for scope examples.
 ## Author
 
 **Shawn C. Wright**  
-ORCID: [0009-0006-6043-9295](https://orcid.org/0009-0006-6043-9295)  
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-green.svg)](https://orcid.org/0009-0006-6043-9295)
+(https://orcid.org/0009-0006-6043-9295)  
 
 ---
 
