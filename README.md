@@ -242,3 +242,21 @@ See `LICENSE_POLICY.md` for scope examples.
 For reproducibility, always cite the **concept DOI** above.  
 This ensures future readers resolve to the correct archived version.  
 
+---
+
+## How to Cite
+
+If you use this work, please cite it as:
+
+```bibtex
+@software{wright_waveframe_v4_2025,
+  author       = {Shawn C. Wright},
+  title        = {Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology},
+  year         = {2025},
+  publisher    = {Zenodo},
+  version      = {v4.0},
+  doi          = {10.5281/zenodo.16872199},
+  url          = {https://doi.org/10.5281/zenodo.16872199}
+}
+
+Wright, S. C. (2025). Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology (v4.0) [Research tool]. Zenodo. https://doi.org/10.5281/zenodo.16872199
