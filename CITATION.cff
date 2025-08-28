@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
-title: "Waveframe v4.0.4 — AI-Orchestrated Proof of Concept in Cosmology"
-version: "4.0.4"
-doi: "10.5281/zenodo.16970443"
+title: "Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology"
+version: "4.0"
+doi: "10.5281/zenodo.16872199"
 date-released: 2025-08-27
 repository-code: "https://github.com/Wright-Shawn/Waveframe-v4.0"
 license: "Apache-2.0"
@@ -23,15 +23,15 @@ abstract: >
 identifiers:
   - type: doi
     value: "10.5281/zenodo.16872199"
-    description: "Concept DOI (always resolves to the latest version)"
+    description: "Concept DOI (permanent citation, always resolves to latest version)"
 
 preferred-citation:
   type: software
-  title: "Waveframe v4.0.4: Entropic Cosmology Framework"
+  title: "Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology"
   authors:
     - family-names: Wright
       given-names: Shawn C.
       orcid: "https://orcid.org/0009-0006-6043-9295"
   year: 2025
-  doi: "10.5281/zenodo.16970443"
-  url: "https://github.com/Wright-Shawn/Waveframe-v4.0"
+  doi: "10.5281/zenodo.16872199"
+  url: "https://doi.org/10.5281/zenodo.16872199"
