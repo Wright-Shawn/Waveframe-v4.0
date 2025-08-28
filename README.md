@@ -7,6 +7,14 @@
 
 ---
 
+## Status
+
+This repository (Waveframe v4.0) is **archived as a completed research project**.  
+The work is permanently recorded via DOI for reproducibility.  
+All future development will continue in Waveframe v5.0.
+
+---
+
 ## What This Is
 
 Waveframe v4.0 is a **proof-of-concept research project** built to test how  
