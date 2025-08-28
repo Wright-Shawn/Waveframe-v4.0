@@ -218,8 +218,7 @@ See `LICENSE_POLICY.md` for scope examples.
 ## Author
 
 **Shawn C. Wright**  
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-green.svg)](https://orcid.org/0009-0006-6043-9295)
-(https://orcid.org/0009-0006-6043-9295)  
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--6043--9295-green.svg)](https://orcid.org/0009-0006-6043-9295) 
 
 ---
 
