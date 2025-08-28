@@ -12,6 +12,7 @@
 This repository (Waveframe v4.0) is **archived as a completed research project**.  
 The work is permanently recorded via DOI for reproducibility.  
 All future development will continue in Waveframe v5.0.
+![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
 
 ---
 
@@ -230,14 +231,13 @@ See `LICENSE_POLICY.md` for scope examples.
 
 ---
 
-## Version
+## Version & Citation
 
-Version: Waveframe v4.0.4 
+**Version:** Waveframe v4.0 (archived)  
 
-Repository: [github.com/Wright-Shawn/Waveframe-v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0)  
+**Concept DOI (permanent citation):**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)  
 
-(CONCEPT)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)
+For reproducibility, always cite the **concept DOI** above.  
+This ensures future readers resolve to the correct archived version.  
 
-(LATEST VERSION)[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16970443.svg)](https://doi.org/10.5281/zenodo.16970443)
-
-![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
