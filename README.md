@@ -12,6 +12,7 @@
 This repository (Waveframe v4.0) is **archived as a completed research project**.  
 The work is permanently recorded via DOI for reproducibility.  
 All future development will continue in Waveframe v5.0.
+
 ![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
 
 ---
