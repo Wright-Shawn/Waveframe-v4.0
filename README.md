@@ -141,13 +141,13 @@ This section makes Waveframe’s claims **attackable** on real data. Each observ
 
 ## Deliverables in This Repository
 
-- `/theory` – Conceptual framework and derivations  
-- `/equations` – Final equations with assumptions and constraints  
-- `/notebooks` – Python analysis scripts for model-vs-ΛCDM comparisons  
-- `/analysis` – Results summaries, comparisons, figures, CSV outputs  
-- `/figures` – Generated plots (E(z), D_A(z), growth factor)  
-- `/docs` – Supporting documentation (framework, falsifiability, workflow log, version history)  
-- `/demos` – Streamlit app, report generator, and pipeline templates  
+- `/Theory` – Conceptual framework and derivations  
+- `/Equations` – Final equations with assumptions and constraints  
+- `/Notebooks` – Python analysis scripts for model-vs-ΛCDM comparisons  
+- `/Analysis` – Results summaries, comparisons, figures, CSV outputs  
+- `/Figures` – Generated plots (E(z), D_A(z), growth factor)  
+- `/Docs` – Supporting documentation (framework, falsifiability, workflow log, version history)  
+- `/Demos` – Streamlit app, report generator, and pipeline templates  
 - `/decisions` – Architecture Decision Records (ADRs) capturing key tradeoffs and rationale
 - Licensing & attribution documents  
 
