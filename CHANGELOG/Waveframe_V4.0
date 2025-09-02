@@ -44,3 +44,22 @@ By grounding cosmic dynamics in a generalized entropy–action principle, Wavefr
 - Retains falsifiability by linking all results to observable quantities such as H(z), μ(z), and fσ₈(z).
 
 This release represents the most comprehensive and foundational statement of the Waveframe program to date — a single theory that unites scalar-field physics, pure entropy cosmology, and ΛCDM within one coherent mathematical framework.
+
+---
+
+# Waveframe v4.0.1 — Final Audit Release
+
+This update does not change the theoretical content of Waveframe v4.0.  
+Instead, it finalizes the repository as an **archived, audit-ready proof-of-concept for AI Workflow Orchestration (AWO).**
+
+## Added
+- `WORKFLOW_LOG.md` reframed to emphasize AWO-first workflow, tied to commit bursts  
+- `/decisions/` folder with Architecture Decision Records (ADRs) documenting key tradeoffs  
+- `decisions/README.md` explaining ADR purpose and usage  
+- README updated to surface decisions and audit trail  
+- Licensing clarified (CC BY-NC-SA 4.0 for docs/theory, Apache 2.0 for code)  
+
+## Why
+To complete the reproducibility and auditability scaffold before formally archiving v4.0.  
+This ensures the project is transparent: **what happened, when, and why**.  
+Future work continues in Waveframe v5.0, building on this audit-ready foundation.
