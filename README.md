@@ -7,11 +7,16 @@
 
 ---
 
-## Status
+## Project Status
 
-This repository (Waveframe v4.0) is **archived as a completed research project**.  
-The work is permanently recorded via DOI for reproducibility.  
-All future development will continue in Waveframe v5.0.
+**Waveframe v4.0.5** is the final release of this project.  
+- Archived on Zenodo under the **Concept DOI** [10.5281/zenodo.16872199](https://doi.org/10.5281/zenodo.16872199)  
+- All logs, ADRs, and changelog aligned with v4.0.5  
+- Repository is recruiter-ready and audit-complete  
+
+This repository is not under active development. It remains open for visibility and minor touch-ups, but all official references should use the DOI above.  
+
+---
 
 ![Last Commit](https://img.shields.io/github/last-commit/Wright-Shawn/Waveframe-v4.0/main)
 
