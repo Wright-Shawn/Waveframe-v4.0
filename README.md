@@ -148,7 +148,7 @@ This section makes Waveframe’s claims **attackable** on real data. Each observ
 - `/Figures` – Generated plots (E(z), D_A(z), growth factor)  
 - `/Docs` – Supporting documentation (framework, falsifiability, workflow log, version history)  
 - `/Demos` – Streamlit app, report generator, and pipeline templates  
-- `/decisions` – Architecture Decision Records (ADRs) capturing key tradeoffs and rationale
+- `/Decisions` – Architecture Decision Records (ADRs) capturing key tradeoffs and rationale
 - Licensing & attribution documents  
 
 ## Decisions
