@@ -1,4 +1,4 @@
-Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology
+# Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology
 
 [![DOI ](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](./LICENSE)
