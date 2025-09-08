@@ -6,7 +6,7 @@
 
 ## Overview
 
-Waveframe v4.0 is an archived research project that demonstrates how **AI Workflow Orchestration (AWO)** can be applied to exploratory physics. The project uses cosmology as a case study, presenting an information and entropy driven model of expansion while emphasizing **methodology over theory**.  
+Waveframe v4.0 is a research project that demonstrates how **AI Workflow Orchestration (AWO)** can be applied to exploratory physics. The project uses cosmology as a case study, presenting an information and entropy driven model of expansion while emphasizing **methodology over theory**.  
 
 This repository is not positioned as a finished cosmological framework. Instead, it serves as a **proof of process**: every claim, equation, and assumption is structured within a transparent, auditable, and reproducible workflow. By treating cosmology as an open testbed, Waveframe v4.0 demonstrates how independent researchers can conduct and preserve rigorous work with AI assisted methods.  
 
