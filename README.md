@@ -9,7 +9,7 @@
 
 ## Status
 
-This repository (Waveframe v4.0) is **archived as a completed research project**.  
+This repository (Waveframe v4.0) is **frozen as a completed research project**.  
 The work is permanently recorded via DOI for reproducibility.  
 All future development will continue in Waveframe v5.0.
 
