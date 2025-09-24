@@ -20,7 +20,7 @@ All future development will continue in Waveframe v5.0.
 ## What This Is
 
 Waveframe v4.0 is a **proof-of-concept research project** built to test how  
-**AI Workflow Orchestration (AWO)** can manage a complex, ambiguous scientific domain.
+**Aurora Workflow Orchestration (AWO)** can manage a complex, ambiguous scientific domain.
 
 The project explores an entropy–action expansion framework as an alternative to ΛCDM,  
 but the physics content is **secondary**. The real aim is to demonstrate:
