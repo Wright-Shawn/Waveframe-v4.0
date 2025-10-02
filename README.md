@@ -1,6 +1,7 @@
 # Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f7ad5ff3-5193-44da-a1c4-566a29e61bd1" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/46170b47-9330-4c40-bcf5-ada44ccbbac5" />
+
 
 
 [![DOI ](https://zenodo.org/badge/DOI/10.5281/zenodo.16872199.svg)](https://doi.org/10.5281/zenodo.16872199)
