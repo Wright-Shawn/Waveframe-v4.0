@@ -1,6 +1,7 @@
 # Waveframe v4.0: AI-Orchestrated Proof of Concept in Cosmology
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/46170b47-9330-4c40-bcf5-ada44ccbbac5" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/105a9bd5-29a7-4eac-b6a2-a7649940fdf8" />
+
 
 
 
