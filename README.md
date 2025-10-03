@@ -10,8 +10,7 @@
 ## Status
 
 This repository is **archived as a completed proof-of-concept (v4.0)**.  
-The work is permanently recorded via DOI for reproducibility.  
-Future development will continue in Waveframe v5.0.
+The work is permanently recorded via **DOI** for reproducibility.  
 
 ---
 
@@ -46,11 +45,11 @@ More detailed discussion of the model, scaffolds for falsifiability, and empiric
 
 ## Portfolio Note
 
-This repository is part of a broader portfolio showing how **AI Workflow Orchestration (AWO)** can scale across domains:
+This repository is part of a broader portfolio showing how **Aurora Workflow Orchestration (AWO)** can scale across domains:
 
-- [AI Workflow Orchestration (AWO)](https://github.com/Wright-Shawn/AI-Workflow-Orchestration) — defines the orchestration framework  
-- [Customer Review Analysis](https://github.com/Wright-Shawn/Customer-Review-Analysis) — applied business demo  
+- [Aurora Workflow Orchestration (AWO)](https://github.com/Wright-Shawn/Aurora-Workflow-Orchestration) — defines the orchestration framework    
 - [Waveframe v4.0](https://github.com/Wright-Shawn/Waveframe-v4.0) — scientific case study
+*Future projects: TBA*
 
 ---
 
